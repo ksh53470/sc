@@ -25,6 +25,6 @@
     전화번호 : <input type="text" name="tel" /><br/>
     <input type="submit" value="수정" />
     <input type="reset" value="취소" />
-    <form>
+    </form>
 </body>
 </html>
